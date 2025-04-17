@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+body{
+    background-color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+} 
+
+header{
+    color: white;
+    background:linear-gradient(30deg ,#00D4FF , #FF007A ,#00D4FF); 
+    /*padding: 20px;*/ 
+    text-align: center;
+    font-size: 18px;
+    
+} 
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+} 
+
+
+
+
+section{
+   
+       background-image: url('freepik3__the-style-is-candid-image-photography-with-natural__3879.jpeg');
+        padding: 10px;
+        background-size: contain; 
+        background-repeat: no-repeat;
+        overflow: hidden;
+        
+        
+    }
+    
+     
+        
+    
+        
+        
+    
+    
+    .formulario{
+    max-width: 300px ;
+    background:linear-gradient(to bottom  ,#00D4FF , #FF007A ,#00D4FF);
+    float: right; 
+    padding: 20px; 
+    
+    
+}  
+
+input,select {
+   width: 100%; 
+   box-sizing: border-box;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+}  
+
+input[type= "submit"]{
+background-color: #FF007A;
+color: #00D4FF; 
+
+}
+
+
+
+.mb{
+    color: white; 
+    margin-bottom: 30px;
+    
+    
+} 
+
+footer {
+    
+    color: white;
+    background-color: #FF007A;
+    
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+
+    
+
